@@ -25,3 +25,7 @@ video-streaming-app/
 └── package.json
 
 ---
+Deploy Link Frontend = https://cozy-monstera-1973a4.netlify.app
+Deploy Link BackEnd = https://node-stream-backend.onrender.com
+
+backend git-Repo = https://github.com/SaurabhSawade/Node-Stream-backend.git
