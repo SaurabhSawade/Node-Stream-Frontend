@@ -19,7 +19,7 @@ function App() {
         <div className="aspect-video mb-6 border-4 border-purple-300 rounded-xl overflow-hidden shadow-md">
             <video  className="w-full h-auto rounded-lg shadow-lg border border-purple-300"
             controls autoPlay >
-                <source src="http://localhost:3000/video" type="video/mp4" />
+                <source src="https://node-stream-backend.onrender.com/video" type="video/mp4" />
                  Your browser does not support the video tag.
             </video>
         </div>
